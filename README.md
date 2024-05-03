@@ -46,7 +46,7 @@ Version Control:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Harsh Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&theme=tokyonight)
 
 ## 📚 Highlighted Projects
 

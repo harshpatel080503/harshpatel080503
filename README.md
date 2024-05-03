@@ -56,7 +56,7 @@ Version Control:
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Linkedin_Profile-blue?style=flat&logo=linkedin)]([Your LinkedIn URL](https://www.linkedin.com/in/harsh-patel-57540922a))
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Patel-blue?style=flat&logo=linkedin)]([Harsh Patel](https://www.linkedin.com/in/harsh-patel-57540922a))
 - Email: `harshpatel080503@gmail.com`
 
 ## 💬 Ask Me About

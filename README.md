@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for turning da
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursing Graduation from [LDRP INSTITUTE OF TECHNOLOGY AND RESEARCH](https://www.ldrp.ac.in/) with a degree in [Bachelor of Engineering in Computer Engineering].
+- 🎓 Pursing Graduation from [LDRP-ITR](https://www.ldrp.ac.in/) with a degree in Bachelor of Engineering in Computer Engineering.
 - 💼 Currently working as a Data Scientist at [Your Company].
 - 🌱 I’m currently learning more about [Deep Learning, NLP, Big Data Technologies, etc.].
 - 👯 I’m looking to collaborate on [Open Source Projects, Machine Learning Models, etc.].

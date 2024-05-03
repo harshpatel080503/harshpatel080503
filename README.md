@@ -5,10 +5,9 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for turning da
 ## 🧑‍💻 About Me
 
 - 🎓 Pursing Graduation from [LDRP-ITR](https://www.ldrp.ac.in/) with a degree in Bachelor of Engineering in Computer Engineering.
-- 💼 Currently working as a Data Scientist at [Your Company].
 - 🌱 I’m currently learning more about [Deep Learning, NLP, Big Data Technologies, etc.].
 - 👯 I’m looking to collaborate on [Open Source Projects, Machine Learning Models, etc.].
-- 🥅 2023 Goals: Contribute more to Open Source projects and hone my skills in [Specific Technologies or Techniques].
+- 🥅 2024 Goals: Contribute more to Open Source projects and hone my skills in [Specific Technologies or Techniques].
 - ⚡ Fun fact: I love to [Interesting Personal Tidbit].
 
 ## 🔧 Technologies & Tools

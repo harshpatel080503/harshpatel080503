@@ -50,9 +50,9 @@ Version Control:
 
 ## 📚 Highlighted Projects
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name&theme=tokyonight)](https://github.com/yourusername/repository-name)
+![Harsh Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpatel080503&repo=Seaborn-Database-Cheatsheet&theme=tokyonight)](https://github.com/harshpatel080503/Seaborn-Database-Cheatsheet)
 
-> **[Project Title](GitHub Link)** - Brief description of the project and technologies used.
+> **[Seaborn DataBase Cheatsheet]([GitHub Link](https://github.com/harshpatel080503/Seaborn-Database-Cheatsheet))** - Brief description of the project and technologies used.
 
 ## 📫 How to Reach Me
 

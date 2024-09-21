@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patel Harsh Satishkumar</h1>
-<h3 align="center">"Passionate data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making, dedicated to solving complex problems and delivering actionable insights through innovative models and AI-driven solutions.</h3>
+<h3 align="center">Passionate data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making, dedicated to solving complex problems and delivering actionable insights through innovative models and AI-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpatel080503&label=Profile%20views&color=0e75b6&style=flat" alt="harshpatel080503" /> </p>
 

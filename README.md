@@ -1,64 +1,54 @@
-# Hello, I'm Harsh Patel! 👋
+<h1 align="center">Hi 👋, I'm Patel Harsh Satishkumar</h1>
+<h3 align="center">"Passionate data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making, dedicated to solving complex problems and delivering actionable insights through innovative models and AI-driven solutions.</h3>
 
-Welcome to my GitHub profile! I'm a Data Scientist with a passion for turning data into actionable insights and beautiful visualizations. I specialize in machine learning, statistical analysis, and predictive modeling. Here, you'll find projects that showcase my skills in Python, SQL, and more.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpatel080503&label=Profile%20views&color=0e75b6&style=flat" alt="harshpatel080503" /> </p>
 
-## 🧑‍💻 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpatel080503" alt="harshpatel080503" /></a> </p>
 
-- 🎓 Pursing Graduation from [LDRP-ITR](https://www.ldrp.ac.in/) with a degree in Bachelor of Engineering in Computer Engineering.
-- 🌱 I’m currently learning more about [Deep Learning, NLP, Big Data Technologies, etc.].
-- 👯 I’m looking to collaborate on [Open Source Projects, Machine Learning Models, etc.].
-- 🥅 2024 Goals: Contribute more to Open Source projects and hone my skills in [Specific Technologies or Techniques].
-- ⚡ Fun fact: I love to [Interesting Personal Tidbit].
+<p align="left"> <a href="https://twitter.com/harshpatel8503" target="blank"><img src="https://img.shields.io/twitter/follow/harshpatel8503?logo=twitter&style=for-the-badge" alt="harshpatel8503" /></a> </p>
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on [Stable Diffusion](https://github.com/harshpatel080503/Stable-Diffusion)
 
-Programming Languages :
+- 🌱 I’m currently learning **LLM, VAE, Transformers, GPT**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+- 🔭 I’m currently working on [VisionLM](https://github.com/harshpatel080503/VisionLM)
 
-Libraries and Framework:
+- 🔭 I’m currently working on [RAG](https://github.com/harshpatel080503/RAG)
 
-![NumPy](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![Pandas](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![PyTorch](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![Keras](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
-![Seaborn](https://img.shields.io/badge/Library-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/harshpatel080503](https://www.datascienceportfol.io/harshpatel080503)
 
-Tools and Platform:
+- 📝 I regularly write articles on [https://medium.com](https://medium.com)
 
-![Jupyter](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![Apache Spark](https://img.shields.io/badge/Tool-ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
-![AWS](https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![Google Cloud](https://img.shields.io/badge/Platform-GoogleCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+- 💬 Ask me about Myself **I am a motivated and detail-oriented data scientist with a strong background in machine learning, statistics, and data analysis. My experience spans diverse projects, from AI-powered video surveillance systems to generative AI in medical applications, showcasing my ability to innovate and drive impactful solutions. With a passion for continual learning and growth, I am dedicated to advancing my skills and contributing to cutting-edge developments in data science.**
 
-Version Control:
+- 📫 How to reach me **harshpatel080503@gmail.com**
 
-![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XbFEC2fY9Vuw1h3Q43BzETtfrHU2vDhq/view?usp=sharing](https://drive.google.com/file/d/1XbFEC2fY9Vuw1h3Q43BzETtfrHU2vDhq/view?usp=sharing)
 
+- ⚡ Fun fact **I Think I Can Easily Lead Team as a Family.**
 
-## 📊 GitHub Stats
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-![Harsh Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&theme=tokyonight)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/harshpatel080503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshpatel080503" height="30" width="40" /></a>
+<a href="https://twitter.com/harshpatel8503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshpatel8503" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-patel-57540922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-patel-57540922a" height="30" width="40" /></a>
+<a href="https://kaggle.com/harshpatel0816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshpatel0816" height="30" width="40" /></a>
+<a href="https://medium.com/@harshpatel080503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpatel080503" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshpatel080503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshpatel080503" height="30" width="40" /></a>
+</p>
 
-## 📚 Highlighted Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Harsh Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpatel080503&repo=Seaborn-Database-Cheatsheet&theme=tokyonight)](https://github.com/harshpatel080503/Seaborn-Database-Cheatsheet)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/harshpatel080503"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshpatel080503" /></a></p><br><br>
 
-> **[Seaborn DataBase Cheatsheet]([GitHub Link](https://github.com/harshpatel080503/Seaborn-Database-Cheatsheet))** - Brief description of the project and technologies used.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpatel080503&show_icons=true&locale=en&layout=compact" alt="harshpatel080503" /></p>
 
-## 📫 How to Reach Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&locale=en" alt="harshpatel080503" /></p>
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Patel-blue?style=flat&logo=linkedin)]([Harsh Patel](https://www.linkedin.com/in/harsh-patel-57540922a))
-- Email: `harshpatel080503@gmail.com`
-
-## 💬 Ask Me About
-
-Feel free to ask me about anything related to data science, machine learning, and technology. I am open to discussions and collaborations on projects or innovations. Let's connect and build something amazing together!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpatel080503&" alt="harshpatel080503" /></p>

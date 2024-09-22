@@ -9,11 +9,13 @@
 
 - 🔭 I’m currently working on [Stable Diffusion](https://github.com/harshpatel080503/Stable-Diffusion)
 
-- 🌱 I’m currently learning **LLM, VAE, Transformers, GPT**
-
 - 🔭 I’m currently working on [VisionLM](https://github.com/harshpatel080503/VisionLM)
 
 - 🔭 I’m currently working on [RAG](https://github.com/harshpatel080503/RAG)
+
+- 🔭 I’m currently working on [NeRF](https://github.com/harshpatel080503/NeRF)
+
+- 🌱 I’m currently learning **LLM, VAE, Transformers, GPT**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/harshpatel080503](https://www.datascienceportfol.io/harshpatel080503)
 

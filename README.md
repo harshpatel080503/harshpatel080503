@@ -1,239 +1,247 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║          HARSH PATEL — GitHub Profile README                 ║
+  ║          Portfolio Edition · harshpatel080503                ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Harsh%20Patel&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=LLM%20Systems%20%E2%80%A2%20Retrieval%20Engineering%20%E2%80%A2%20Applied%20AI%20Research&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" />
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+LLM+%26+RAG+Systems+%F0%9F%A4%96;Multilingual+Information+Retrieval+Research+%F0%9F%94%8D;CLEF+2026+%7C+GenAI+Engineer+in+Progress+%F0%9F%9A%80;From+Transformers+to+Production+Pipelines+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-57540922a)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/harshpatel080503)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshpatel080503)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpatel080503@gmail.com)
-
-<br/>
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=harshpatel080503&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%"/>
 </div>
 
----
+<br/>
 
-## `> whoami`
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
+## Harsh Patel
+**M.Sc. Data Science · DA-IICT, Gandhinagar**
+
+> *Building scalable LLM systems, hybrid retrieval pipelines,*
+> *and production-grade AI infrastructure.*
+
+Research Intern at the **Information Retrieval & Language Processing Lab** — actively competing in **CLEF 2026** (FinMMEval + CheckThat tracks). Focused on the intersection of LLM reasoning, multilingual search, and agentic AI systems that work in production.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-57540922a)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpatel080503)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@harshpatel080503)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshpatel080503@gmail.com)
+
+</td>
+<td width="40%" valign="top">
 
 ```python
 class HarshPatel:
-    name        = "Harsh Patel"
-    role        = "M.Sc. Data Science @ DA-IICT, Gandhinagar"
-    focus       = ["LLM Systems", "RAG Pipelines", "Multilingual IR", "Agentic AI"]
-    research    = "CLEF FinMMEval 2026 | CLEF CheckThat 2026"
-    interests   = ["Scalable LLMs", "Retrieval Engineering", "Applied AI Research"]
-    currently   = "Research Intern @ Information Retrieval & Language Processing Lab"
-    goal        = "Build interpretable, memory-efficient AI systems for real-world impact"
+  role    = "LLM & Retrieval Engineer"
+  edu     = "M.Sc. Data Science @ DA-IICT"
+  gpa     = {"BE": 8.99, "MSc": 8.4}
+  focus   = [
+    "RAG Pipelines",
+    "Multilingual IR",
+    "Agentic AI",
+    "LLM Evaluation",
+  ]
+  gate    = "AIR 7106 (GATE 2024)"
+  status  = "Open to research roles"
 ```
 
-<br/>
-
----
-
-## `> expertise --domains`
-
-<div align="center">
-
-| 🧠 LLM & GenAI | 🔍 Retrieval Engineering | ⚙️ ML & Deep Learning |
-|:-:|:-:|:-:|
-| Transformers (BERT, GPT) | BM25 + Dense Hybrid | XGBoost · CatBoost |
-| RAG Pipelines | FAISS ANN Search | DenseNet121 · AlexNet |
-| Agentic AI Systems | Cross-Encoder Re-ranking | Transfer Learning |
-| Prompt Engineering | Reciprocal Rank Fusion | Fine-Tuning Pipelines |
-| Multimodal AI | Vector Databases (ChromaDB) | SHAP · Grad-CAM |
-| LLM Evaluation & Benchmarking | Metadata-Aware Retrieval | Mixed Precision Training |
-
-</div>
-
----
-
-## `> tech --stack`
-
-<div align="center">
-
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI / ML Frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Retrieval & Search**
-
-![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-764ABC?style=for-the-badge&logo=semanticweb&logoColor=white)
-
-**Deployment & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
----
-
-## `> research --active`
-
-<div align="center">
-
-### 🔬 CLEF 2026 Research Track
-
-</div>
-
-**📈 CLEF FinMMEval 2026 — Financial Multimodal Evaluation**
-> Built an **agentic financial decision system** integrating LLM reasoning, market signals, and portfolio optimization across BTC & TSLA assets.
-
-**🔍 CLEF CheckThat 2026 — Multilingual Claim Retrieval**
-> Designed a **multi-stage multilingual retrieval pipeline** combining BM25, E5 dense embeddings, and cross-encoder reranking — achieving **MRR@5 up to 0.49** over 10K+ scientific documents.
-
----
-
-## `> projects --highlight`
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Research-Aware Faculty Recommendation</h3>
-      <p><strong>RAG + LLM Explainability | FastAPI + ChromaDB</strong></p>
-      <ul>
-        <li>End-to-end RAG system: scrape → clean → retrieve → LLM re-rank</li>
-        <li>Hybrid retrieval (BM25 + embeddings) with score fusion</li>
-        <li>ChromaDB vector search with metadata-aware field weighting</li>
-        <li>Gemini-based LLM re-ranking with structured output fallback</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🧠 Avasa.AI — Multimodal Stroke Detection</h3>
-      <p><strong>DenseNet121 + Logistic Regression + FastAPI + Docker</strong></p>
-      <ul>
-        <li>CT/MRI classification via fine-tuned DenseNet121</li>
-        <li>Clinical model: <strong>AUC 0.83 | Recall 0.80</strong></li>
-        <li>Grad-CAM explainability for critical region highlighting</li>
-        <li>Deployed with FastAPI + Docker for real-time inference</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🚗 Accident Intelligence System (AIS)</h3>
-      <p><strong>XGBoost · CatBoost · Feature Engineering</strong></p>
-      <ul>
-        <li>ML models on <strong>89K+ UK accident records</strong></li>
-        <li>CatBoost/XGBoost: <strong>PR-AUC 0.76 | Recall 0.84</strong></li>
-        <li>SMOTE + threshold tuning for class imbalance</li>
-        <li>Actionable safety insights for infrastructure planning</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🔁 Transformer From Scratch</h3>
-      <p><strong>Research Reimplementation · PyTorch</strong></p>
-      <ul>
-        <li>Full reimplementation: attention, positional encoding, masking</li>
-        <li>Fine-tuned BERT for text classification & sentiment analysis</li>
-        <li>Reproduced AlexNet & Neural Collaborative Filtering</li>
-        <li>Ablation studies across model architectures</li>
-      </ul>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## `> stats --github`
+## Research · CLEF 2026
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="49%" valign="top">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel080503&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+**📈 FinMMEval 2026 — Financial Agentic AI**
 
-<br/>
+Agentic decision system combining LLM reasoning, live market signals, and portfolio optimization across **BTC + TSLA**. Production FastAPI pipeline with structured outputs, retry logic, and reproducible experimentation.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshpatel080503&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+`Sharpe Ratio` `Multi-asset` `LLM Reasoning` `Agentic Systems`
 
-</div>
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
 
----
+**🔍 CheckThat 2026 — Multilingual Claim Retrieval**
 
-## `> achievements --unlocked`
+Multi-stage pipeline over **10K+ scientific documents**: BM25 → E5 dense embeddings → cross-encoder reranking → RRF score fusion. Achieved **MRR@5 = 0.49**, reducing ranking noise and improving top-5 precision.
 
-<div align="center">
+`MRR@5: 0.49` `BM25 + E5` `Cross-Encoder` `RRF Fusion`
 
-🏆 **GATE 2024 Qualified** — Data Science & AI · *AIR 7106*
-
-🥈 **Odoo Combat 2024 Finalist** — Nutrition Diet Recommendation System
-
-</div>
-
----
-
-## `> certifications --verified`
-
-<div align="center">
-
-| Certification | Provider |
-|:--|:--|
-| 🤖 Agentic AI | DeepLearning.AI |
-| 🔍 Retrieval Augmented Generation (RAG) | DeepLearning.AI |
-| ⚙️ Machine Learning in Production (MLOps) | DeepLearning.AI |
-| 🧠 Deep Learning Specialization | DeepLearning.AI |
-| 📊 Machine Learning Specialization | DeepLearning.AI |
-| 🗄️ Database Management Systems | NPTEL |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## `> education --current`
+## Projects
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  M.Sc. Data Science                                              │
-│  Dhirubhai Ambani University (DA-IICT), Gandhinagar             │
-│  CGPA: 8.4 / 10  ·  2025 – 2027                                │
-├──────────────────────────────────────────────────────────────────┤
-│  B.E. Computer Engineering                                       │
-│  LDRP-ITR, Gandhinagar · KSV                                    │
-│  CGPA: 8.99 / 10  ·  2021 – 2025                               │
-└──────────────────────────────────────────────────────────────────┘
-```
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="49%" valign="top">
+
+### 🎓 Research-Aware Faculty Recommender
+`RAG · ChromaDB · Gemini · FastAPI`
+
+End-to-end RAG system: dynamic URL scraping → robust HTML parsing → hybrid BM25 + embedding retrieval → Gemini LLM re-ranking with structured output fallback. ChromaDB with metadata-aware field-level weighting.
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpatel080503)
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+### 🧠 Avasa.AI — Multimodal Stroke Detection
+`DenseNet121 · Logistic Regression · Docker · FastAPI`
+
+CT/MRI classification via fine-tuned DenseNet121 + clinical risk model achieving **AUC 0.83 · Recall 0.80**. Grad-CAM explainability highlights decision-critical imaging regions. Deployed as real-time REST API.
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpatel080503)
+
+</td>
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+<td width="49%" valign="top">
+
+### 🚗 Accident Intelligence System (AIS)
+`XGBoost · CatBoost · SMOTE · Feature Engineering`
+
+ML pipeline over **89,000+ UK road accident records**. Domain-specific feature engineering + SMOTE + threshold tuning for safety-critical imbalanced classes → **PR-AUC 0.76 · Recall 0.84**.
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpatel080503)
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+### 🔬 Transformer from Scratch
+`PyTorch · HuggingFace · Research Reimplementation`
+
+Full reimplementation: multi-head attention, positional encoding, masking, backprop dynamics. BERT fine-tuning for classification & sentiment. AlexNet + Neural Collaborative Filtering reproduction with controlled ablation studies.
+
+[![Repo](https://img.shields.io/badge/View_Repository-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpatel080503)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> activity --graph`
+## Tech Stack
 
-<div align="center">
+**Languages**
 
-[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshpatel080503&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)](https://github.com/harshpatel080503)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-</div>
+**LLM & Generative AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square&logoColor=white)
+
+**Retrieval & Search**
+
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![BM25](https://img.shields.io/badge/BM25_+_Hybrid-00897B?style=flat-square&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-764ABC?style=flat-square&logoColor=white)
+![Cross-Encoder](https://img.shields.io/badge/Cross--Encoder_Reranking-0F766E?style=flat-square&logoColor=white)
+
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Explainability & Evaluation**
+
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square&logoColor=white)
+![GradCAM](https://img.shields.io/badge/Grad--CAM-8B5CF6?style=flat-square&logoColor=white)
+![IR Metrics](https://img.shields.io/badge/MRR_·_NDCG_·_Recall-10B981?style=flat-square&logoColor=white)
+
+**Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true"/>
+
+</td>
+<td width="45%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel080503&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=harshpatel080503&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9"/>
+
+---
+
+## Certifications & Achievements
+
+| | Credential | Issuer |
+|:---:|:---|:---|
+| 🤖 | Agentic AI | DeepLearning.AI |
+| 🔍 | Retrieval Augmented Generation (RAG) | DeepLearning.AI |
+| ⚙️ | Machine Learning in Production (MLOps) | DeepLearning.AI |
+| 🧠 | Deep Learning Specialization | DeepLearning.AI |
+| 📊 | Machine Learning Specialization | DeepLearning.AI |
+| 🗄️ | Database Management Systems | NPTEL |
+| 🏆 | **GATE 2024 — DS & AI · AIR 7106** | IIT / IISC |
+| 🥈 | **Odoo Combat 2024 — Finalist** | Odoo |
+
+---
+
+## Education
+
+| Degree | Institute | Score | Year |
+|:---|:---|:---:|:---:|
+| M.Sc. Data Science | Dhirubhai Ambani University (DA-IICT), Gandhinagar | 8.4 CGPA | 2025–2027 |
+| B.E. Computer Engineering | LDRP-ITR, Gandhinagar · KSV University | 8.99 CGPA | 2021–2025 |
+| Higher Secondary | P.P. Savani School · GSEB | 81.54% | 2019–2021 |
+
+---
+
+## Research & Experimental Work
+
+- **Transformer Architecture** — Reimplemented from scratch in PyTorch: multi-head attention, positional encoding, masking, and full backpropagation dynamics.
+- **BERT Fine-tuning** — Text classification and sentiment analysis pipelines using HuggingFace Transformers.
+- **AlexNet & Neural CF** — Reproduced experiments with controlled hyperparameter sweeps and comparative ablation studies across architectures.
+- **Evaluation Frameworks** — Benchmarked models using F1, BLEU, ROUGE, MRR@K, NDCG@K, ROC-AUC, PR-AUC across NLP and IR tasks.
+- **CLEF-style Protocols** — Designed reproducible evaluation pipelines aligned with international IR benchmarking standards.
 
 ---
 
 <div align="center">
 
-**`// Currently building at the intersection of LLMs · Retrieval · Production AI`**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshpatel080503&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff"/>
 
 <br/>
 
@@ -241,6 +249,6 @@ class HarshPatel:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer&reversal=true" />
+![Profile Views](https://komarev.com/ghpvc/?username=harshpatel080503&style=flat-square&color=58a6ff&label=Profile+Views)
 
 </div>

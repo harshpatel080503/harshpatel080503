@@ -1,56 +1,246 @@
-<h1 align="center">Hi 👋, I'm Patel Harsh Satishkumar</h1>
-<h3 align="center">Passionate data scientist with a strong foundation in machine learning, statistical analysis, and data-driven decision-making, dedicated to solving complex problems and delivering actionable insights through innovative models and AI-driven solutions.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpatel080503&label=Profile%20views&color=0e75b6&style=flat" alt="harshpatel080503" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Harsh%20Patel&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=LLM%20Systems%20%E2%80%A2%20Retrieval%20Engineering%20%E2%80%A2%20Applied%20AI%20Research&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpatel080503" alt="harshpatel080503" /></a> </p>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+LLM+%26+RAG+Systems+%F0%9F%A4%96;Multilingual+Information+Retrieval+Research+%F0%9F%94%8D;CLEF+2026+%7C+GenAI+Engineer+in+Progress+%F0%9F%9A%80;From+Transformers+to+Production+Pipelines+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/harshpatel8503" target="blank"><img src="https://img.shields.io/twitter/follow/harshpatel8503?logo=twitter&style=for-the-badge" alt="harshpatel8503" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Stable Diffusion](https://github.com/harshpatel080503/Stable-Diffusion)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-57540922a)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/harshpatel080503)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshpatel080503)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpatel080503@gmail.com)
 
-- 🔭 I’m currently working on [VisionLM](https://github.com/harshpatel080503/VisionLM)
+<br/>
 
-- 🔭 I’m currently working on [RAG](https://github.com/harshpatel080503/RAG)
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=harshpatel080503&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working on [NeRF](https://github.com/harshpatel080503/NeRF)
+</div>
 
-- 🌱 I’m currently learning **LLM, VAE, Transformers, GPT**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/harshpatel080503](https://www.datascienceportfol.io/harshpatel080503)
+## `> whoami`
 
-- 📝 I regularly write articles on [https://medium.com](https://medium.com)
+```python
+class HarshPatel:
+    name        = "Harsh Patel"
+    role        = "M.Sc. Data Science @ DA-IICT, Gandhinagar"
+    focus       = ["LLM Systems", "RAG Pipelines", "Multilingual IR", "Agentic AI"]
+    research    = "CLEF FinMMEval 2026 | CLEF CheckThat 2026"
+    interests   = ["Scalable LLMs", "Retrieval Engineering", "Applied AI Research"]
+    currently   = "Research Intern @ Information Retrieval & Language Processing Lab"
+    goal        = "Build interpretable, memory-efficient AI systems for real-world impact"
+```
 
-- 💬 Ask me about Myself **I am a motivated and detail-oriented data scientist with a strong background in machine learning, statistics, and data analysis. My experience spans diverse projects, from AI-powered video surveillance systems to generative AI in medical applications, showcasing my ability to innovate and drive impactful solutions. With a passion for continual learning and growth, I am dedicated to advancing my skills and contributing to cutting-edge developments in data science.**
+<br/>
 
-- 📫 How to reach me **harshpatel080503@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XbFEC2fY9Vuw1h3Q43BzETtfrHU2vDhq/view?usp=sharing](https://drive.google.com/file/d/1XbFEC2fY9Vuw1h3Q43BzETtfrHU2vDhq/view?usp=sharing)
+## `> expertise --domains`
 
-- ⚡ Fun fact **I Think I Can Easily Lead Team as a Family.**
+<div align="center">
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+| 🧠 LLM & GenAI | 🔍 Retrieval Engineering | ⚙️ ML & Deep Learning |
+|:-:|:-:|:-:|
+| Transformers (BERT, GPT) | BM25 + Dense Hybrid | XGBoost · CatBoost |
+| RAG Pipelines | FAISS ANN Search | DenseNet121 · AlexNet |
+| Agentic AI Systems | Cross-Encoder Re-ranking | Transfer Learning |
+| Prompt Engineering | Reciprocal Rank Fusion | Fine-Tuning Pipelines |
+| Multimodal AI | Vector Databases (ChromaDB) | SHAP · Grad-CAM |
+| LLM Evaluation & Benchmarking | Metadata-Aware Retrieval | Mixed Precision Training |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/harshpatel080503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshpatel080503" height="30" width="40" /></a>
-<a href="https://twitter.com/harshpatel8503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshpatel8503" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-patel-57540922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-patel-57540922a" height="30" width="40" /></a>
-<a href="https://kaggle.com/harshpatel0816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshpatel0816" height="30" width="40" /></a>
-<a href="https://medium.com/@harshpatel080503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshpatel080503" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshpatel080503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshpatel080503" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harshpatel080503"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshpatel080503" /></a></p><br><br>
+## `> tech --stack`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpatel080503&show_icons=true&locale=en&layout=compact" alt="harshpatel080503" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&locale=en" alt="harshpatel080503" /></p>
+**Languages & Core**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshpatel080503&" alt="harshpatel080503" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / ML Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Retrieval & Search**
+
+![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-764ABC?style=for-the-badge&logo=semanticweb&logoColor=white)
+
+**Deployment & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## `> research --active`
+
+<div align="center">
+
+### 🔬 CLEF 2026 Research Track
+
+</div>
+
+**📈 CLEF FinMMEval 2026 — Financial Multimodal Evaluation**
+> Built an **agentic financial decision system** integrating LLM reasoning, market signals, and portfolio optimization across BTC & TSLA assets.
+
+**🔍 CLEF CheckThat 2026 — Multilingual Claim Retrieval**
+> Designed a **multi-stage multilingual retrieval pipeline** combining BM25, E5 dense embeddings, and cross-encoder reranking — achieving **MRR@5 up to 0.49** over 10K+ scientific documents.
+
+---
+
+## `> projects --highlight`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎓 Research-Aware Faculty Recommendation</h3>
+      <p><strong>RAG + LLM Explainability | FastAPI + ChromaDB</strong></p>
+      <ul>
+        <li>End-to-end RAG system: scrape → clean → retrieve → LLM re-rank</li>
+        <li>Hybrid retrieval (BM25 + embeddings) with score fusion</li>
+        <li>ChromaDB vector search with metadata-aware field weighting</li>
+        <li>Gemini-based LLM re-ranking with structured output fallback</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🧠 Avasa.AI — Multimodal Stroke Detection</h3>
+      <p><strong>DenseNet121 + Logistic Regression + FastAPI + Docker</strong></p>
+      <ul>
+        <li>CT/MRI classification via fine-tuned DenseNet121</li>
+        <li>Clinical model: <strong>AUC 0.83 | Recall 0.80</strong></li>
+        <li>Grad-CAM explainability for critical region highlighting</li>
+        <li>Deployed with FastAPI + Docker for real-time inference</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Accident Intelligence System (AIS)</h3>
+      <p><strong>XGBoost · CatBoost · Feature Engineering</strong></p>
+      <ul>
+        <li>ML models on <strong>89K+ UK accident records</strong></li>
+        <li>CatBoost/XGBoost: <strong>PR-AUC 0.76 | Recall 0.84</strong></li>
+        <li>SMOTE + threshold tuning for class imbalance</li>
+        <li>Actionable safety insights for infrastructure planning</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔁 Transformer From Scratch</h3>
+      <p><strong>Research Reimplementation · PyTorch</strong></p>
+      <ul>
+        <li>Full reimplementation: attention, positional encoding, masking</li>
+        <li>Fine-tuned BERT for text classification & sentiment analysis</li>
+        <li>Reproduced AlexNet & Neural Collaborative Filtering</li>
+        <li>Ablation studies across model architectures</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> stats --github`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshpatel080503&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpatel080503&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshpatel080503&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> achievements --unlocked`
+
+<div align="center">
+
+🏆 **GATE 2024 Qualified** — Data Science & AI · *AIR 7106*
+
+🥈 **Odoo Combat 2024 Finalist** — Nutrition Diet Recommendation System
+
+</div>
+
+---
+
+## `> certifications --verified`
+
+<div align="center">
+
+| Certification | Provider |
+|:--|:--|
+| 🤖 Agentic AI | DeepLearning.AI |
+| 🔍 Retrieval Augmented Generation (RAG) | DeepLearning.AI |
+| ⚙️ Machine Learning in Production (MLOps) | DeepLearning.AI |
+| 🧠 Deep Learning Specialization | DeepLearning.AI |
+| 📊 Machine Learning Specialization | DeepLearning.AI |
+| 🗄️ Database Management Systems | NPTEL |
+
+</div>
+
+---
+
+## `> education --current`
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  M.Sc. Data Science                                              │
+│  Dhirubhai Ambani University (DA-IICT), Gandhinagar             │
+│  CGPA: 8.4 / 10  ·  2025 – 2027                                │
+├──────────────────────────────────────────────────────────────────┤
+│  B.E. Computer Engineering                                       │
+│  LDRP-ITR, Gandhinagar · KSV                                    │
+│  CGPA: 8.99 / 10  ·  2021 – 2025                               │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> activity --graph`
+
+<div align="center">
+
+[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshpatel080503&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)](https://github.com/harshpatel080503)
+
+</div>
+
+---
+
+<div align="center">
+
+**`// Currently building at the intersection of LLMs · Retrieval · Production AI`**
+
+<br/>
+
+*"Retrieval is the memory of intelligence. I build systems that remember well."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer&reversal=true" />
+
+</div>
